@@ -1,0 +1,2 @@
+# MagDesign
+MagDesign blog website
